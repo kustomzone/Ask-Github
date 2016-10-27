@@ -1,19 +1,21 @@
 
 ### An occasional lightbulb moment, more question than answer.
 
-Too abstract for Stackoverflow
-Too meta for Quora
-
+_Too abstract for Stackoverflow, Too meta for Quora_
 
 - Opensource/software centric.
 - Non-political, non-controversial, un-googleable.
 - Informative and friendly.
 
 
-# How?
+## How?
 
 Create an Issue.
 
-# Why?
+## Why?
 
 Curiosity and Learning.
+
+## What?
+
+**Rare** ..as in "why hasn't this been asked before?"
